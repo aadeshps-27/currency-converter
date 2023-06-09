@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Cinzel&family=Dancing+Script&family=Graduate&family=Julius+Sans+One&family=Kaushan+Script&family=Libre+Baskerville&family=Mynerve&family=Nabla&family=Nanum+Myeongjo:wght@800&family=Play&family=Press+Start+2P&family=Prompt:ital,wght@1,300&family=Source+Sans+Pro:ital@1&family=Teko:wght@300&display=swap');
+*{
+    font-family: 'Play', sans-serif;
+}
+body{
+background-image:url(https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
